@@ -1,4 +1,4 @@
-import { Controller, Get, Post, Body, Patch, Param, Delete } from '@nestjs/common';
+import { Controller, Get, Post, Body, Patch, Param, Delete, NotFoundException } from '@nestjs/common';
 import { JokesService } from './jokes.service';
 import { CreateJokeDto } from './dto/create-joke.dto';
 import { UpdateJokeDto } from './dto/update-joke.dto';
@@ -18,8 +18,14 @@ export class JokesController {
   }
 
   @Get(':id')
-  findOne(@Param('id') id: string) {
-    return this.jokesService.findOne(+id);
+  async findOne(@Param('id') id: string) {
+    const joke = await this.jokesService.findOne(+id);
+
+    if (!joke) {
+      throw new NotFoundException(`Joke not found for id ${id}`);
+    }
+
+    return joke;
   }
 
   @Patch(':id')
