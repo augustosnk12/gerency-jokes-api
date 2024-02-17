@@ -8,12 +8,11 @@ export class AllExceptionsFilter extends BaseExceptionFilter {
   catch(exception: Prisma.PrismaClientKnownRequestError, host: ArgumentsHost) {
     super.catch(exception, host);
 
-    console.log({ exception });
-
+    
     const ctx = host.switchToHttp();
     const response = ctx.getResponse<Response>();
     const message = exception.message.replace(/\n/g, '');
-
+    
     switch (exception.code) {
       case 'P2002': {
         const status = HttpStatus.CONFLICT;
@@ -24,7 +23,6 @@ export class AllExceptionsFilter extends BaseExceptionFilter {
         break;
       }
       case 'P2025': {
-        console.log('hegou aquikkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk');
         const status = HttpStatus.NOT_FOUND;
         response.status(status).json({
           statusCode: status,
