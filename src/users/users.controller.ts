@@ -7,11 +7,13 @@ import {
   Param,
   Delete,
   NotFoundException,
+  UseGuards,
 } from '@nestjs/common';
 import { UsersService } from './users.service';
 import { CreateUserDto } from './dto/create-user.dto';
 import { UpdateUserDto } from './dto/update-user.dto';
 import { v4 as uuidv4 } from 'uuid';
+import { AuthGuard } from 'src/utils/jwt-guard';
 
 @Controller('users')
 export class UsersController {
@@ -38,11 +40,13 @@ export class UsersController {
     return user;
   }
 
+  @UseGuards(AuthGuard)
   @Patch(':id')
   update(@Param('id') id: uuidv4, @Body() updateUserDto: UpdateUserDto) {
     return this.usersService.update(id, updateUserDto);
   }
 
+  @UseGuards(AuthGuard)
   @Delete(':id')
   remove(@Param('id') id: uuidv4) {
     return this.usersService.remove(id);
