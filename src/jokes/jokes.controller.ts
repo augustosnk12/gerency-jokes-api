@@ -7,10 +7,12 @@ import {
   Param,
   Delete,
   NotFoundException,
+  UseGuards,
 } from '@nestjs/common';
 import { JokesService } from './jokes.service';
 import { CreateJokeDto } from './dto/create-joke.dto';
 import { UpdateJokeDto } from './dto/update-joke.dto';
+import { AuthGuard } from 'src/utils/jwt-guard';
 
 @Controller('jokes')
 export class JokesController {
@@ -37,6 +39,7 @@ export class JokesController {
     return joke;
   }
 
+  @UseGuards(AuthGuard)
   @Patch(':id')
   update(@Param('id') id: string, @Body() updateJokeDto: UpdateJokeDto) {
     return this.jokesService.update(+id, updateJokeDto);
