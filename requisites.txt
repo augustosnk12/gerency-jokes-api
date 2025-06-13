@@ -1,0 +1,26 @@
+## Requisitos funcionais
+
+[] Deve ser possível exibir uma piada aleatoriamente
+[] Deve ser possível listar todas as piadas
+[] Deve ser possível cadastrar uma nova piada
+[] Deve ser possível filtar piadas por categoria
+[] Deve ser possível editar uma piada (Admin)
+[] Deve ser possível deletar uma piada (Admin)
+[] Deve ser possível rejeitar ou aprovar uma piada (Admin)
+[] Deve ser possível cadastrar uma categoria (Admin)
+[] Deve ser possível editar uma categoria (Admin)
+[] Deve ser possível deletar uma categoria (Admin)
+[] Deve ser possível fazer login (Admin)
+
+## Regras de negócio
+
+[] Uma piada não pode ser listada sem a aprovação do admin
+[] Apenas um admin pode editar ou deletar uma piada
+[] Um usuário pode apenas enviar 5 piadas por dia
+[] Apenas um admin pode gerenciar categorias (criar, editar e deletar)
+
+## Requisitos não funcionais
+
+[] O frontend deve ser desenvolvido em React
+[] O backend deve ser desenvolvido em Node.js
+[] O banco de dados deve ser PostgreSQL
