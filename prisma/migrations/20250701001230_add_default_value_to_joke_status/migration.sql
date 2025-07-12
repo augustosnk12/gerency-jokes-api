@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Joke" ALTER COLUMN "status" SET DEFAULT 'PENDING';

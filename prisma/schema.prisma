@@ -32,7 +32,7 @@ model Joke {
   answer     String?
   category   Category   @relation(fields: [categoryId], references: [id])
   categoryId String
-  status     JokeStatus
+  status     JokeStatus @default(PENDING)
   createdAt  DateTime   @default(now())
   updatedAt  DateTime   @updatedAt
 }

@@ -2,10 +2,12 @@ import fastify from "fastify";
 import { ZodError } from "zod";
 import { env } from "./env";
 import { categoriesRoutes } from "./http/controllers/categories/routes";
+import { jokesRoutes } from "./http/controllers/jokes/routes";
 
 export const app = fastify();
 
 app.register(categoriesRoutes);
+app.register(jokesRoutes);
 
 app.setErrorHandler((error, _, reply) => {
   if (error instanceof ZodError) {
