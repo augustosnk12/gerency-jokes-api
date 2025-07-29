@@ -1,0 +1,1039 @@
+{
+    "jokes": [
+      {
+        "text": "Por que a galinha atravessou a rua?",
+        "answer": "Para chegar ao outro lado.",
+        "category": "animais"
+      },
+      {
+        "text": "Uma vez uma galinha só tinha uma perna. Aí ela foi ciscar e caiu",
+        "answer": null,
+        "category": "animais"
+      },
+      {
+        "text": "O que o pato disse para a pata?",
+        "answer": "Vem quá!",
+        "category": "animais"
+      },
+      {
+        "text": "Por que os peixes não gostam de computador?",
+        "answer": "Porque têm medo do mouse.",
+        "category": "animais"
+      },
+      {
+        "text": "Por que a galinha entrou na igreja?",
+        "answer": "Para ver a Missa do Galo!",
+        "category": "animais"
+      },
+      {
+        "text": "Você sabe por que o elefante não monta na bicicleta?",
+        "answer": "Eu não. Nem eu",
+        "category": "animais"
+      },
+      {
+        "text": "O que um pato falou para o outro?",
+        "answer": "Estamos empatados",
+        "category": "animais"
+      },
+      {
+        "text": "Qual é a cobra que desperta o tigre em você?",
+        "answer": "A Sucurilhos",
+        "category": "animais"
+      },
+      {
+        "text": "Onde a olvelha acessa a internet?",
+        "answer": "Na lã house",
+        "category": "animais"
+      },
+      {
+        "text": "Qual o maior inimigo do macaco-prego?",
+        "answer": "O tubarão-martelo",
+        "category": "animais"
+      },
+      {
+        "text": "Qual o roedor que perdeu bastante peso",
+        "answer": "O esquilo",
+        "category": "animais"
+      },
+      {
+        "text": "Qual animal que anda sempre dolorido?",
+        "answer": "O condor",
+        "category": "animais"
+      },
+      {
+        "text": "Com qual instrumento musical o boi toca pagode?",
+        "answer": "cavaquinha",
+        "category": "animais"
+      },
+      {
+        "text": "Qual o bicho que não vale mais nada?",
+        "answer": "O javali",
+        "category": "animais"
+      },
+      {
+        "text": "Pra que serve uma pá no chão do estábulo?",
+        "answer": "Para cavalo",
+        "category": "animais"
+      },
+      {
+        "text": "Se eu te conhecesse em 1500 eu te compraria",
+        "answer": null,
+        "category": "humor negro"
+      },
+      {
+        "text": "Por que as crianças no orfanato não podem ir para a Disney?",
+        "answer": "Porque precisam da autorização dos pais",
+        "category": "humor negro"
+      },
+      {
+        "text": "Quando você vir uma pessoa sem braços, peça pra ela bater palmas",
+        "answer": null,
+        "category": "humor negro"
+      },
+      {
+        "text": "Por que é uma boa ideia namorar uma mulher cadeirante?",
+        "answer": "Porque se ela ameaçar ir embora é só tirar a cadeira de rodas dela",
+        "category": "humor negro"
+      },
+      {
+        "text": "Estou vendendo uma tv, mas ela não tem imagem",
+        "answer": "Meu primo cego vai querer",
+        "category": "humor negro"
+      },
+      {
+        "text": "O que o condenado disse quando foi decaptado?",
+        "answer": "Estou sem cabeça para isso",
+        "category": "humor negro"
+      },
+      {
+        "text": "Ele é tão negro que desaparece no escuro",
+        "answer": null,
+        "category": "humor negro"
+      },
+      {
+        "text": "Minha professora teve paralisia facial. Ela ficou sendo chamada de palavra cruazada",
+        "answer": "porque ele já tem muitos problemas",
+        "category": "humor negro"
+      },
+      {
+        "text": "Não adianta conversar sobre um tetraplégico. Ele não vai te levar a lugar nenhum",
+        "answer": null,
+        "category": "humor negro"
+      },
+      {
+        "text": "Toda vez que vejo um motoboy isso me lembra uma pizza. Porque o último que eu vi estava em 8 pedaços",
+        "answer": null,
+        "category": "humor negro"
+      },
+      {
+        "text": "Como o motocilista se protege da chuva?",
+        "answer": "debaixo do carro",
+        "category": "humor negro"
+      }, 
+      {
+        "text": "Na época da escravidão o negro já nascia empregado",
+        "answer": null,
+        "category": "humor negro"
+      },
+      {
+        "text": "Na alemanha acento pra judeu é um cinzeiro",
+        "answer": null,
+        "category": "humor negro"
+      },
+      {
+        "text": "todo mundo quer ir pro céu mas ninguém quer morrer",
+        "answer": null,
+        "category": "humor negro"
+      },
+      {
+        "text": "qual o jeito mais rápido para perder barriga?",
+        "answer": "aborto",
+        "category": "humor negro"
+      },
+      {
+        "text": "Toda mulher precisa de terapia. Ter a pia cheia de pratos pra lavar",
+        "answer": null,
+        "category": "mulheres"
+      },
+      {
+        "text": "Mulher no volante, perigo constante",
+        "answer": null,
+        "category": "mulheres"
+      },
+      {
+        "text": "Quantas loiras são necessárias para trocar uma lâmpada?",
+        "answer": "Duas, uma para cima e outra para baixo",
+        "category": "mulheres"
+      },
+      {
+        "text": "Como se chama uma mulher inteligente nos Estados Unidos?",
+        "answer": "Turista",
+        "category": "mulheres"
+      },
+      {
+        "text": "Qual desenho as mulheres não gostam de assistir?",
+        "answer": "Marsha e o urso. Porque elas não sabem dirigir",
+        "category": "mulheres"
+      },
+      {
+        "text": "Sabe por que a mulher se casa de branco?",
+        "answer": "Pra combinar com o fogão e a geladeira",
+        "category": "mulheres"
+      },
+      {
+        "text": "Sabe por que a mulher se casa de branco?",
+        "answer": "Pra combinar com o fogão e a geladeira",
+        "category": "mulheres"
+      },
+      {
+        "text": "Se sua mulher te pedir espaço, aumente o tamanho da cozinha",
+        "answer": null,
+        "category": "mulheres"
+      },
+      {
+        "text": "Se sua mulher te pedir espaço, aumente o tamanho da cozinha",
+        "answer": null,
+        "category": "mulheres"
+      },
+      {
+        "text": "Qual a diferença entre a mulher e a pizza?",
+        "answer": "A pizza dá pra 8",
+        "category": "mulheres"
+      },
+      {
+        "text": "A moça foi ao restaurante, mas não serviram a moça. Só serviram ao moço",
+        "answer": null,
+        "category": "mulheres"
+      },
+      {
+        "text": "Mulher é igual fusca, só funciona empurrando",
+        "answer": null,
+        "category": "mulheres"
+      },
+      {
+        "text": "Mulher é igual fusca, só funciona empurrando",
+        "answer": null,
+        "category": "mulheres"
+      },
+      {
+        "text": "O que você faz quando o gordo for te assaltar?",
+        "answer": "Você corre",
+        "category": "gordo"
+      },
+      {
+        "text": "Ele é tão gordo que o ultrassom dele foi no cinema",
+        "answer": null,
+        "category": "gordo"
+      },
+      {
+        "text": "Ele é tão gordo que pra tirar uma foto 3x4 ele precisa de um satélite",
+        "answer": null,
+        "category": "gordo"
+      },
+      {
+        "text": "Ela é tão imensa que se trocar o celular de bolso muda de DDD",
+        "answer": null,
+        "category": "gordo"
+      },
+      {
+        "text": "Eu perdi peso mês passado. Mas este mês ele já me encontrou de novo",
+        "answer": null,
+        "category": "gordo"
+      },     
+      {
+        "text": "Ele é tão gordo que pra ser cremado vão precisar de um vulcão",
+        "answer": null,
+        "category": "gordo"
+      },     
+      {
+        "text": "Ela é tão gorda que a torre do big bang parece um relócio de pulso perto dela",
+        "answer": null,
+        "category": "gordo"
+      },     
+      {
+        "text": "é tão gordo que num bolso leva real e no outro euro",
+        "answer": null,
+        "category": "gordo"
+      },     
+      {
+        "text": "quando o gordo chegou na argentina pensou que estava milionário, porque a moeda lá é o peso",
+        "answer": null,
+        "category": "gordo"
+      },     
+      {
+        "text": "gordo não pode ser goleiro porque ele tapa todo o gol",
+        "answer": null,
+        "category": "gordo"
+      },     
+      {
+        "text": "O melhor lugar pra se enconder de um gordo é na academia",
+        "answer": null,
+        "category": "gordo"
+      },     
+      {
+        "text": "Sua mãe é tão gorda que faz rotação e translação",
+        "answer": null,
+        "category": "gordo"
+      },     
+      {
+        "text": "você é tão gordo que vai no cinema e senta perto de todo mundo",
+        "answer": null,
+        "category": "gordo"
+      },     
+      {
+        "text": "O que a lua disse ao sol?",
+        "answer": "Nossa, você é tão grande e ainda não te deixam sair à noite",
+        "category": "nerd"
+      },
+      {
+        "text": "Qual o animal favorito dos programadores?",
+        "answer": "O Python",
+        "category": "nerd"
+      },
+      {
+        "text": "Por que os desenvolvedores sempre estão cansados?",
+        "answer": "Porque vivem no loop",
+        "category": "nerd"
+      },
+      {
+        "text": "Qual é o cúmulo do programador?",
+        "answer": "Dar null na namorada",
+        "category": "nerd"
+      },
+      {
+        "text": "O que é pior que ser atingido por um raio?",
+        "answer": "ser atingido pelo diâmetro, que tem o dobro do tamanho!!!",
+        "category": "nerd"
+      },
+      {
+        "text": "Ja ouviram o pagode de Darwin? “Deixa acontecer, naturalmente!”",
+        "answer": null,
+        "category": "nerd"
+      },
+      {
+        "text": "O que o próton disse para o elétron? Hoje você está muito negativo.",
+        "answer": null,
+        "category": "nerd"
+      },
+      {
+        "text": "O que três pontos não colineares disseram um ao outro?",
+        "answer": "Temos um plano",
+        "category": "nerd"
+      },
+      {
+        "text": "O Einstein e uma mulher estavam lá, naquele momento de intimidade pela primeira vez, e ela viu ele pelado. O que foi que ela disse?",
+        "answer": "Uau! Que físico!",
+        "category": "nerd"
+      },
+      {
+        "text": "O Nêutron queria entrar para o ramo dos transportes, mas não conseguia carga.",
+        "answer": null,
+        "category": "nerd"
+      },
+      {
+        "text": "Como as enzimas se reproduzem?",
+        "answer": "uma enzima da outra!",
+        "category": "nerd"
+      },
+      {
+        "text": "O que 6 carbonos e 6 hidrogenios estão fazendo de mãos dadas na igreja?",
+        "answer": "benzeno!",
+        "category": "nerd"
+      },
+      {
+        "text": "O que o carbono disse quando foi preso?",
+        "answer": "“Eu tenho direito a 4 ligações, senão eu quebro esta cadeia”.",
+        "category": "nerd"
+      },
+      {
+        "text": "O oxigênio conta uma piada e o potássio KKKKK",
+        "answer": null,
+        "category": "nerd"
+      },
+      {
+        "text": "Seu pai trabalha no Google?",
+        "answer": "é que eu encontrei em você tudo o que eu procurava",
+        "category": "nerd"
+      },
+      {
+        "text": "O que o ovo mais velho disse pro ovo mais novo?",
+        "answer": "ôvô",
+        "category": "trocadilhos"
+      },
+      {
+        "text": "O que o tomate foi fazer no banco?",
+        "answer": "Tirar o extrato",
+        "category": "trocadilhos"
+      },
+      {
+        "text": "O que é um anão com cólica renal?",
+        "answer": "Um micro com puta dor",
+        "category": "trocadilhos"
+      },
+      {
+        "text": "O que o Oxigênio disse para o Hidrogênio?",
+        "answer": "Está rolando uma quimica entre nós",
+        "category": "trocadilhos"
+      },
+      {
+        "text": "por que o carro bateu no convento?",
+        "answer": "porque ele estava sem frei",
+        "category": "trocadilhos"
+      },
+      {
+        "text": "o que o proctologista foi fazer no japão?",
+        "answer": "exame de tokyo",
+        "category": "trocadilhos"
+      },
+      {
+        "text": "como o sabão em pó chama a namorada?",
+        "answer": "ômô",
+        "category": "trocadilhos"
+      },
+      {
+        "text": "o que o cantor sertanejo foi fazer o RH?",
+        "answer": "ser demitido por justa calça",
+        "category": "trocadilhos"
+      },
+      {
+        "text": "qual o inseto mais gordo?",
+        "answer": "obesouro",
+        "category": "trocadilhos"
+      },
+      {
+        "text": "por que a faxineira não luta karatê?",
+        "answer": "porque ela já luta capoeira",
+        "category": "trocadilhos"
+      },
+      {
+        "text": "qual a ciência que transforma cachorro em gato?",
+        "answer": "au que mia",
+        "category": "trocadilhos"
+      },
+      {
+        "text": "quanto custa um ventilador quebrado?",
+        "answer": "no venta",
+        "category": "trocadilhos"
+      },
+      {
+        "text": "um pastel teve um acidente na rodovia. Ele teve uma fritura exposta",
+        "answer": null,
+        "category": "trocadilhos"
+      },
+      {
+        "text": "qual roupa você elogia quando ganha?",
+        "answer": "a meia calça",
+        "category": "trocadilhos"
+      },
+      {
+        "text": "sabe por que o virus da gripe não tem muitos amigos?",
+        "answer": "porque ele é uma má influenza",
+        "category": "trocadilhos"
+      },
+      {
+        "jokes": [
+          {
+            "text": "Por que o jacaré tirou o filho da escola?",
+            "answer": "Porque ele réptil de ano.",
+            "category": "animais"
+          },
+          {
+            "text": "O que o cachorro falou pro poste?",
+            "answer": "Long time no pee!",
+            "category": "animais"
+          },
+          {
+            "text": "Por que o cavalo foi ao psicólogo?",
+            "answer": "Porque estava com problemas de rédea.",
+            "category": "animais"
+          },
+          {
+            "text": "O que o peixe disse para o outro?",
+            "answer": "Nada, nada, nada.",
+            "category": "animais"
+          },
+          {
+            "text": "Por que o elefante não usa computador?",
+            "answer": "Porque tem medo do mouse.",
+            "category": "animais"
+          },
+          {
+            "text": "Qual o animal mais distraído?",
+            "answer": "O esquecido.",
+            "category": "animais"
+          },
+          {
+            "text": "O que a vaca disse pro boi?",
+            "answer": "Te amo de paixão... moooo!",
+            "category": "animais"
+          },
+          {
+            "text": "Por que o sapo não lava o pé?",
+            "answer": null,
+            "category": "animais"
+          },
+          {
+            "text": "Qual o animal que adora um Wi-Fi?",
+            "answer": "O panda de internet.",
+            "category": "animais"
+          },
+          {
+            "text": "Por que o urso polar nunca pega resfriado?",
+            "answer": "Porque ele vive no gelo!",
+            "category": "animais"
+          },
+          {
+            "text": "O que a cobra foi fazer no banco?",
+            "answer": "Abrir uma conta corrente.",
+            "category": "animais"
+          },
+          {
+            "text": "Por que o gato entrou no cinema?",
+            "answer": "Porque queria ver um filme miado.",
+            "category": "animais"
+          },
+          {
+            "text": "O que o passarinho falou para o ventilador?",
+            "answer": "Você me deixa arrepiado.",
+            "category": "animais"
+          },
+          {
+            "text": "Por que o cachorro levou o celular para o parque?",
+            "answer": "Para tirar umas dogselfies.",
+            "category": "animais"
+          },
+          {
+            "text": "Qual o inseto que mais canta?",
+            "answer": "A abelha Gil.",
+            "category": "animais"
+          },
+          {
+            "text": "Qual o cavalo mais quieto?",
+            "answer": "O cavalo calado.",
+            "category": "animais"
+          },
+          {
+            "text": "Por que o caracol não atravessa a rua?",
+            "answer": "Porque ele tem casa no caminho.",
+            "category": "animais"
+          },
+          {
+            "text": "O que o pinguim foi fazer no shopping?",
+            "answer": "Comprar um geladinho.",
+            "category": "animais"
+          },
+          {
+            "text": "Qual o peixe mais medroso?",
+            "answer": "O atum-alado.",
+            "category": "animais"
+          },
+          {
+            "text": "O que o boi disse para a vaca no Natal?",
+            "answer": "Feliz gado novo!",
+            "category": "animais"
+          },
+          {
+            "text": "O defunto foi ao médico reclamar de dores nas costas.",
+            "answer": "E saiu de lá com um atestado de óbito.",
+            "category": "humor negro"
+          },
+          {
+            "text": "Cego foi jogar esconde-esconde...",
+            "answer": "E está escondido até hoje.",
+            "category": "humor negro"
+          },
+          {
+            "text": "O que é pior que perder um braço?",
+            "answer": "Perder o outro também.",
+            "category": "humor negro"
+          },
+          {
+            "text": "Sabe por que o fantasma não vai ao psicólogo?",
+            "answer": "Porque ele não se encontra.",
+            "category": "humor negro"
+          },
+          {
+            "text": "Fui doar sangue, mas não me aceitaram.",
+            "answer": "Disseram que sou sangue ruim.",
+            "category": "humor negro"
+          },
+          {
+            "text": "O coveiro terminou o namoro.",
+            "answer": "Disse que o relacionamento já estava morto.",
+            "category": "humor negro"
+          },
+          {
+            "text": "Tentei abrir meu coração...",
+            "answer": "E agora tô no hospital.",
+            "category": "humor negro"
+          },
+          {
+            "text": "O cara era tão azarado que morreu em um leito... de pulgas.",
+            "answer": null,
+            "category": "humor negro"
+          },
+          {
+            "text": "Minha sorte é tão ruim que tropecei em um defunto... e caí na cova.",
+            "answer": null,
+            "category": "humor negro"
+          },
+          {
+            "text": "Fui fazer uma cirurgia do coração...",
+            "answer": "Mas saí de lá com saudade dele.",
+            "category": "humor negro"
+          },
+          {
+            "text": "Você conhece o bairro do lado do cemitério?",
+            "answer": "É o Vila Morta.",
+            "category": "humor negro"
+          },
+          {
+            "text": "O velório foi animado...",
+            "answer": "Até que pararam com o karaokê.",
+            "category": "humor negro"
+          },
+          {
+            "text": "O caixão era pequeno demais...",
+            "answer": "Tiveram que enterrar por partes.",
+            "category": "humor negro"
+          },
+          {
+            "text": "Sabe qual o prato preferido do psicopata?",
+            "answer": "Fígado acebolado.",
+            "category": "humor negro"
+          },
+          {
+            "text": "Fui no hospital e voltei sem plano.",
+            "answer": null,
+            "category": "humor negro"
+          },
+          {
+            "text": "Por que o caolho não viu o acidente?",
+            "answer": "Porque piscou.",
+            "category": "humor negro"
+          },
+          {
+            "text": "Minha sogra morreu, mas a campainha ainda toca.",
+            "answer": null,
+            "category": "humor negro"
+          },
+          {
+            "text": "Você conhece o defunto baladeiro?",
+            "answer": "Morreu de tanto dançar no caixão.",
+            "category": "humor negro"
+          },
+          {
+            "text": "O esqueleto foi preso por quê?",
+            "answer": "Por desacato à carne.",
+            "category": "humor negro"
+          },
+          {
+            "text": "Tentaram me enterrar vivo, mas eu não deixei... ainda.",
+            "answer": null,
+            "category": "humor negro"
+          },
+          {
+            "text": "Por que a mulher levou uma escada para o bar?",
+            "answer": "Porque ouviu que a bebida estava nas alturas.",
+            "category": "mulheres"
+          },
+          {
+            "text": "Sabe por que a mulher levou o sabão para a cama?",
+            "answer": "Para ter sonhos limpinhos.",
+            "category": "mulheres"
+          },
+          {
+            "text": "Como se chama uma mulher que sabe tudo?",
+            "answer": "Mãe.",
+            "category": "mulheres"
+          },
+          {
+            "text": "O que a esposa disse ao marido programador?",
+            "answer": "Você não compila mais meu coração.",
+            "category": "mulheres"
+          },
+          {
+            "text": "Qual a mulher mais organizada?",
+            "answer": "A dona agenda.",
+            "category": "mulheres"
+          },
+          {
+            "text": "A mulher foi ao salão e saiu com o cabelo tão liso que escorregou no próprio fio.",
+            "answer": null,
+            "category": "mulheres"
+          },
+          {
+            "text": "Por que a mulher levou o ferro de passar para a festa?",
+            "answer": "Porque queria arrasar.",
+            "category": "mulheres"
+          },
+          {
+            "text": "Como se chama uma mulher que vive rindo?",
+            "answer": "Feliciana.",
+            "category": "mulheres"
+          },
+          {
+            "text": "A moça comprou tanto no cartão que o limite pediu divórcio.",
+            "answer": null,
+            "category": "mulheres"
+          },
+          {
+            "text": "Mulher moderna é aquela que usa salto alto e ainda corre atrás dos sonhos.",
+            "answer": null,
+            "category": "mulheres"
+          },
+          {
+            "text": "A mulher foi à academia e saiu de lá com mais amigas que músculos.",
+            "answer": null,
+            "category": "mulheres"
+          },
+          {
+            "text": "Sabe por que as mulheres vivem mais?",
+            "answer": "Porque têm mais paciência até com piada ruim.",
+            "category": "mulheres"
+          },
+          {
+            "text": "A mulher foi ao cinema sozinha e ainda teve que explicar o filme para o marido depois.",
+            "answer": null,
+            "category": "mulheres"
+          },
+          {
+            "text": "Como se chama uma mulher que faz tudo ao mesmo tempo?",
+            "answer": "Normal.",
+            "category": "mulheres"
+          },
+          {
+            "text": "Por que a mulher levou o liquidificador para o trabalho?",
+            "answer": "Porque precisava bater ponto.",
+            "category": "mulheres"
+          },
+          {
+            "text": "Toda mulher tem um GPS interno... chamado intuição.",
+            "answer": null,
+            "category": "mulheres"
+          },
+          {
+            "text": "Ela é tão rápida que faz multitarefa enquanto dorme.",
+            "answer": null,
+            "category": "mulheres"
+          },
+          {
+            "text": "A mulher foi dirigir e o carro ficou tão feliz que nem quis parar.",
+            "answer": null,
+            "category": "mulheres"
+          },
+          {
+            "text": "Por que a mulher levou a planta para o escritório?",
+            "answer": "Porque gosta de ambiente natural.",
+            "category": "mulheres"
+          },
+          {
+            "text": "Ela disse: 'só compro o que preciso'... e saiu com 12 sacolas.",
+            "answer": null,
+            "category": "mulheres"
+          },
+          {
+            "text": "Ele é tão gordo que quando senta no Wi-Fi, dá sinal em todos os cômodos.",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "Foi pisar na balança e ela pediu arrego.",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "Tão gordo que ao invés de tirar uma selfie, tira uma paisagem.",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "Quando corre, o chão pergunta: 'é terremoto ou é ele?'",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "Foi na praia, e a maré subiu dois metros.",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "No exame de sangue, saiu churrasco.",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "Tentou fazer regime... e comeu o regime inteiro.",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "A única corrida que ele faz é a do aplicativo de comida.",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "Tão gordo que em vez de sombra, faz eclipse.",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "Subiu na balança e apareceu 'to be continued'.",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "Foi jogar futebol... e virou a bola.",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "Seu perfume preferido? Cheiro de fritura.",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "Ele não pula corda, ele atropela.",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "No batismo, usaram uma piscina olímpica.",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "Foi fazer yoga e ficou preso no tapete.",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "Ele pediu uma salada... de batata frita.",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "Só corre perigo quando vê comida caindo.",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "Tão guloso que sonha em 4K com comida.",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "Foi correr atrás do prejuízo, mas parou pra comer um lanche.",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "Pediu pizza no rodízio e o rodízio rodou ele.",
+            "answer": null,
+            "category": "gordo"
+          },
+          {
+            "text": "Por que o programador terminou com a calculadora?",
+            "answer": "Ela vivia dando problema de sintaxe.",
+            "category": "nerd"
+          },
+          {
+            "text": "O que o átomo disse ao perder um elétron?",
+            "answer": "Acho que estou positivo.",
+            "category": "nerd"
+          },
+          {
+            "text": "Qual é o doce preferido dos engenheiros?",
+            "answer": "Pi-cake.",
+            "category": "nerd"
+          },
+          {
+            "text": "Como o físico termina namoro?",
+            "answer": "Com um colapso quântico.",
+            "category": "nerd"
+          },
+          {
+            "text": "O matemático foi preso por... excesso de lógica.",
+            "answer": null,
+            "category": "nerd"
+          },
+          {
+            "text": "Por que os nerds nunca brigam?",
+            "answer": "Porque preferem debater no Stack Overflow.",
+            "category": "nerd"
+          },
+          {
+            "text": "Qual o super-herói favorito dos químicos?",
+            "answer": "O Capitão Carbono.",
+            "category": "nerd"
+          },
+          {
+            "text": "Por que o servidor terminou com o cliente?",
+            "answer": "Porque cansou das requisições.",
+            "category": "nerd"
+          },
+          {
+            "text": "O computador foi ao médico. Estava com vírus.",
+            "answer": null,
+            "category": "nerd"
+          },
+          {
+            "text": "O programador foi ao psiquiatra e digitou a senha errada da vida.",
+            "answer": null,
+            "category": "nerd"
+          },
+          {
+            "text": "Por que o nerd levou uma escada para a escola?",
+            "answer": "Porque estava no ensino superior.",
+            "category": "nerd"
+          },
+          {
+            "text": "O que um bit falou para o outro?",
+            "answer": "Você me completa.",
+            "category": "nerd"
+          },
+          {
+            "text": "Por que o elétron foi expulso?",
+            "answer": "Porque estava sempre negativo.",
+            "category": "nerd"
+          },
+          {
+            "text": "O que o Java disse ao Python?",
+            "answer": "Pare de ser tão interpretado!",
+            "category": "nerd"
+          },
+          {
+            "text": "Por que o celular foi pra terapia?",
+            "answer": "Porque tinha muitos toques.",
+            "category": "nerd"
+          },
+          {
+            "text": "O Wi-Fi terminou com a energia elétrica.",
+            "answer": "Disse que estava cansado da dependência.",
+            "category": "nerd"
+          },
+          {
+            "text": "Qual o planeta mais estudioso?",
+            "answer": "Netuno, porque vive na rede.",
+            "category": "nerd"
+          },
+          {
+            "text": "A professora de física era tão boa que até a gravidade caía de amores por ela.",
+            "answer": null,
+            "category": "nerd"
+          },
+          {
+            "text": "O nerd tentou socializar, mas deu bug no cérebro.",
+            "answer": null,
+            "category": "nerd"
+          },
+          {
+            "text": "Por que o Google nunca perde uma aposta?",
+            "answer": "Porque ele sempre sabe a resposta.",
+            "category": "nerd"
+          },
+          {
+            "text": "O que a banana disse para o espelho?",
+            "answer": "Nossa, como estou madura!",
+            "category": "trocadilhos"
+          },
+          {
+            "text": "Por que o sapato foi ao médico?",
+            "answer": "Porque estava com um calo.",
+            "category": "trocadilhos"
+          },
+          {
+            "text": "Qual é o cúmulo do eletricista?",
+            "answer": "Não resistir a uma mulher com boa tomada.",
+            "category": "trocadilhos"
+          },
+          {
+            "text": "Por que a abelha ficou triste?",
+            "answer": "Porque perdeu o mel-humor.",
+            "category": "trocadilhos"
+          },
+          {
+            "text": "O que o papel disse para a impressora?",
+            "answer": "Você me completa.",
+            "category": "trocadilhos"
+          },
+          {
+            "text": "Qual a parte mais divertida do computador?",
+            "answer": "O espaço!",
+            "category": "trocadilhos"
+          },
+          {
+            "text": "Por que o martelo terminou com o prego?",
+            "answer": "Porque ele estava na cabeça dela.",
+            "category": "trocadilhos"
+          },
+          {
+            "text": "O que o arroz disse para o feijão?",
+            "answer": "Vamos fazer uma dupla de marmita.",
+            "category": "trocadilhos"
+          },
+          {
+            "text": "Por que a cenoura não quis sair?",
+            "answer": "Porque estava enraizada.",
+            "category": "trocadilhos"
+          },
+          {
+            "text": "O que a cebola falou para o tomate?",
+            "answer": "Vamos chorar juntos.",
+            "category": "trocadilhos"
+          },
+          {
+            "text": "O tomate foi ao banco...",
+            "answer": "Tirar o extrato.",
+            "category": "trocadilhos"
+          },
+          {
+            "text": "Por que o sabão foi promovido?",
+            "answer": "Porque limpava tudo que fazia.",
+            "category": "trocadilhos"
+          },
+          {
+            "text": "Qual a planta que adora fofoca?",
+            "answer": "O babado-de-moça.",
+            "category": "trocadilhos"
+          },
+          {
+            "text": "O que o chocolate disse ao leite?",
+            "answer": "Somos uma combinação perfeita.",
+            "category": "trocadilhos"
+          },
+          {
+            "text": "Por que o relógio foi expulso da aula?",
+            "answer": "Porque não parava de marcar.",
+            "category": "trocadilhos"
+          },
+          {
+            "text": "Qual a fruta que fala inglês?",
+            "answer": "A grape.",
+            "category": "trocadilhos"
+          },
+          {
+            "text": "O que a tesoura disse ao papel?",
+            "answer": "Estou cortando relações.",
+            "category": "trocadilhos"
+          },
+          {
+            "text": "Por que o queijo se deu bem na vida?",
+            "answer": "Porque sempre ralou muito.",
+            "category": "trocadilhos"
+          },
+          {
+            "text": "O que o dente falou para o outro?",
+            "answer": "Vamos juntos nessa mordida.",
+            "category": "trocadilhos"
+          },
+          {
+            "text": "Por que o lápis se divorciou da borracha?",
+            "answer": "Porque ela apagava tudo que ele escrevia.",
+            "category": "trocadilhos"
+          }
+        ]
+      }
+    ]
+  }
+  

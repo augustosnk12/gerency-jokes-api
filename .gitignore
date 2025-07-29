@@ -1,3 +1,6 @@
 node_modules
 # Keep environment variables out of version control
 .env
+
+machine_learning/joke_encoder
+machine_learning/__pycache__
