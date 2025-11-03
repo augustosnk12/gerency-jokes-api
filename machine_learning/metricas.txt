@@ -1,0 +1,28 @@
+=== Métricas (Validação) ===
+              precision    recall  f1-score   support
+
+     animais       0.93      0.72      0.81        18
+    diversos       0.88      0.79      0.83        19
+       gordo       0.95      0.95      0.95        20
+ humor negro       0.76      1.00      0.86        19
+    mulheres       0.90      1.00      0.95        19
+        nerd       0.89      0.80      0.84        20
+
+    accuracy                           0.88       115
+   macro avg       0.89      0.88      0.88       115
+weighted avg       0.89      0.88      0.88       115
+
+
+=== Métricas (Teste) ===
+              precision    recall  f1-score   support
+
+     animais       0.82      1.00      0.90        18
+    diversos       0.92      0.60      0.73        20
+       gordo       0.89      0.84      0.86        19
+ humor negro       0.82      0.90      0.86        20
+    mulheres       0.94      0.85      0.89        20
+        nerd       0.78      0.95      0.86        19
+
+    accuracy                           0.85       116
+   macro avg       0.86      0.86      0.85       116
+weighted avg       0.86      0.85      0.85       116
