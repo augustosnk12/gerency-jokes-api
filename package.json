@@ -6,13 +6,15 @@
   "scripts": {
     "dev": "tsx watch src/server.ts",
     "start": "node build/server.js",
-    "test": "vitest --watch --dir src/use-cases"
+    "test": "vitest --watch --dir src/use-cases",
+    "ml-api": "cd machine_learning && uvicorn api:app --reload --host 127.0.0.1 --port 8000"
   },
   "author": "gus",
   "license": "ISC",
   "dependencies": {
     "@fastify/cookie": "^11.0.2",
     "@fastify/jwt": "^9.0.4",
+    "axios": "^1.13.1",
     "@prisma/client": "^6.4.1",
     "dotenv": "^16.4.7",
     "fastify": "^5.2.1",

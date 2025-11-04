@@ -6,4 +6,5 @@ export interface CategoriesRepository {
     findAll(): Promise<Category[] | null>;
     update(id: string, data: Prisma.CategoryUpdateInput): Promise<Category | undefined>;
     delete(id: string): Promise<void>;
+    findByName(name: string): Promise<Category | null>;
 }

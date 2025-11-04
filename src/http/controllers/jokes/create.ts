@@ -10,15 +10,25 @@ export async function createJoke(
   const createJokeBodySchema = z.object({
     text: z.string().min(2).max(255),
     answer: z.string().min(2).max(255).optional(),
-    category_id: z.string().uuid(),
+    category_id: z.string().uuid().optional(),
   });
 
   const { text, answer, category_id } = createJokeBodySchema.parse(request.body);
 
   const createJokeUseCase = makeCreateJokeUseCase();
 
+  const data: any = {
+    text,
+    answer,
+    status: "PENDING"
+  };
+
+  if (category_id) {
+    data.category = { connect: { id: category_id } };
+  }
+
   await createJokeUseCase.execute({
-    data: { text, answer, category: { connect: { id: category_id } }, status: "PENDING" },
+    data,
   });
 
   return response.status(201).send();

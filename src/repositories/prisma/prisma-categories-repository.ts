@@ -31,4 +31,15 @@ export class PrismaCategoriesRepository implements CategoriesRepository {
   async delete(id: string) {
     await prisma.category.delete({ where: { id } });
   }
+
+  async findByName(name: string) {
+    return prisma.category.findFirstOrThrow({ 
+      where: { 
+        name: {
+          equals: name,
+          mode: 'insensitive'
+        }
+      } 
+    });
+  }
 }

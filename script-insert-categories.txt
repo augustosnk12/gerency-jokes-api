@@ -1,0 +1,9 @@
+-- Insert categories into the category table
+INSERT INTO "Category" (id, name, description)
+VALUES 
+  (gen_random_uuid(), 'Mulheres', 'Piadas sobre mulheres'),
+  (gen_random_uuid(), 'Animais', 'Piadas sobre animais'),
+  (gen_random_uuid(), 'Gordo', 'Piadas sobre peso'),
+  (gen_random_uuid(), 'Humor negro', 'Piadas de humor negro'),
+  (gen_random_uuid(), 'Nerd', 'Piadas nerd/geek'),
+  (gen_random_uuid(), 'Diversos', 'Piadas diversas');

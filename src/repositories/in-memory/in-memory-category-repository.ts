@@ -40,4 +40,9 @@ export class InMemoryCategoryRepository implements CategoriesRepository {
   async delete(id: string) {
     this.categories = this.categories.filter((category) => category.id !== id);
   }
+
+  async findByName(name: string) {
+    const category = this.categories.find((category) => category.name === name);
+    return category || null;
+  }
 }

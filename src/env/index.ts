@@ -7,6 +7,7 @@ const envSchema = z.object({
     DATABASE_USERNAME: z.string(),
     DATABASE_PASSWORD: z.string(),
     DATABASE_URL: z.string(),
+    ML_ENDPOINT: z.string(),
 });
 
 const _env = envSchema.safeParse(process.env);
